@@ -1,1 +1,2 @@
-# Algorithm Tavern
+# Algorithm Tavern Frontend
+## Written in ReactJS
